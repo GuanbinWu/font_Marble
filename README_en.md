@@ -6,7 +6,7 @@ This project provides a personal designed original font (Marble) and some engine
 - **Contains glyphs**: Currently includes English letters, numbers, and common English punctuation. Commonly used words (Greek letters, Chinese characters, special symbols, emoticons, etc.) will be gradually updated in the future.
 - **Missing glyphs**: Usually the operating system automatically falls back to some kind of default glyph, so don't worry about "tofu chunks". This project considered mixing some publicly available open source fonts as temporary padding, but abandoned it due to the inconvenience caused by mixing licenses.
 - **Style**: Currently only regular fonts (Regular).
-- **Font Effects**: Please open this [website](./web_test/test.html)
+- **Font Effects**: Please open this [website](https://guanbinwu.github.io/font_Marble/test.html)
 
 ### How to Use This Font?
 Download ./build/Marble-Regular.ttf and install locally. Or just click [here](./build/Marble-Regular.ttf).
