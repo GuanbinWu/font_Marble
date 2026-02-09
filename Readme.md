@@ -9,7 +9,7 @@
 - **字体效果**：请打开这个[网站](https://guanbinwu.github.io/font_Marble/test.html)
 
 ### 如何使用此字体？
-下载./build/Marble-Regular.ttf并安装到本地。或者直接点击[这里](./build/Marble-Regular.ttf)。
+下载./build/Marble-Regular.ttf并安装到本地。或者直接点击[这里](https://github.com/GuanbinWu/font_Marble/releases/)。
 ### 版权
 本项目产生的所有字体文件（后缀.ttf和.otf）使用[CCO 1.0 Universal License 许可证](./CC0-LICENSE)，这通常意味着你可以**完全自由、不受任何限制地**使用，具体的法律条文请参考[https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/)。
 其余所有文件，包括但不限于脚本，工程文件，矢量图等，使用[MIT 许可证](./MIT-LICENSE)。([https://mit-license.org/](https://mit-license.org/))
